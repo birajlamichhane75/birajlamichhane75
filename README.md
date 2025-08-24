@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [NSBE HT Chapter Official Website](https://htunsbe.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://biraj.vercel.app/](https://biraj.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://biraj.vercel.app](https://biraj.vercel.app)
 
 - 📫 How to reach me **birajlamichhane57@gmail.com**
 
