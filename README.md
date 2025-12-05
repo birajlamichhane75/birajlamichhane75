@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=birajlamichhane75" alt="birajlamichhane75" /></a> </p>
 
-- 🔭 I’m currently working on [Voting Platform Dashboard]([https://htunsbe.vercel.app/](https://votingapp-dashboard.vercel.app/))
+- 🔭 I’m currently working on [Voting Platform Dashboard]([https://htunsbe.vercel.app/](https://votingapp-dashboard.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://biraj.vercel.app](https://biraj.vercel.app/projects)
+- 👨‍💻 All of my projects are available at [https://biraj.vercel.app](https://biraj.vercel.app/projects/)
 
 - 📫 How to reach me **birajlamichhane57@gmail.com**
 
