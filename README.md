@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Voting Platform Dashboard] - <a href="https://votingapp-dashboard.vercel.app" target="blank">[Voting Platform Dashboard]</a>
 
-- 👨‍💻 All of my projects are available at [https://biraj.vercel.app](https://biraj.vercel.app/projects/)
+- 👨‍💻 All of my projects are available at - <a href="https://biraj.vercel.app/projects/" target="blank">My Projects</a>
 
 - 📫 How to reach me **birajlamichhane57@gmail.com**
 
