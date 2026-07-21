@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=birajlamichhane75" alt="birajlamichhane75" /></a> </p>
 
-- 🔭 I’m currently working on [NousLMS] - <a href="https://www.nouslms.com" target="blank">NousLMS</a>
+- 🔭 I’m currently working on [NousLMS] - <a href="https://www.nouslms.com" target="_blank">NousLMS</a>
 
 - 👨‍💻 All of my projects are available at - <a href="https://biraj.vercel.app/projects/" target="blank">My Projects</a>
 
